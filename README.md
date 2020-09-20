@@ -12,7 +12,7 @@ Add this to your `zz.toml` file:
 weakmap = "*"
 
 [repos]
-weakmap = "git://github.com/zzmodules/weakmap"
+weakmap = "git://github.com/jwerle/weakmap"
 ```
 
 ## Usage
