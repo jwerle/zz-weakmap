@@ -1,6 +1,5 @@
 using map
 using pool
-using log
 
 export using map::{ key, val }
 
