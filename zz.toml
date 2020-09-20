@@ -1,0 +1,19 @@
+[project]
+version = "0.1.0"
+name = "weakmap"
+description = "A higher level Map abstraction for borrowed references"
+cincludes = []
+cobjects = []
+pkgconfig = []
+cflags = []
+
+[dependencies]
+list = "*"
+log = "*"
+map = "*"
+mem = "*"
+runtime_assert = "*"
+vec = "*"
+
+[repos]
+runtime_assert = "git://github.com/zzmodules/runtime-assert"
